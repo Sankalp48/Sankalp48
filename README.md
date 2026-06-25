@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sankalp_1006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-shandilya-92a715306) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sankalp Shandilya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalpshandilya2@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalp_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-shandilya-92a715306) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sankalp Shandilya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalpshandilya2@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sankalp48&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sankalp48&theme=dark&hide_border=false)<br/>

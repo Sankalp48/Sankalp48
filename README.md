@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **Application Architect Intern at DBS Tech India**<br><br>👯 I'm looking to collaborate on **Open Source, MERN Stack, and Web3 Projects**<br><br>🤝 I'm looking for help with **Cloud Architecture, System Design, and Scalable Backend Systems**<br><br>🌱 I'm currently learning **System Design, Application Architecture, Web3, and Cloud Technologies**<br><br>💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, Solidity, REST APIs, and Git**<br><br>⚡ Fun fact **I enjoy solving DSA problems on LeetCode & Codeforces and turning innovative ideas into real-world applications.**<br>
+🔭 I'm currently working on **Full-Stack Applications and Enterprise Solutions at DBS Tech India**<br><br>👯 I'm looking to collaborate on **Open Source, MERN Stack, and Web3 Projects**<br><br>🤝 I'm looking for help with **Cloud Architecture, System Design, and Scalable Backend Systems**<br><br>🌱 I'm currently learning **System Design, Application Architecture, Web3, and Cloud Technologies**<br><br>💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, Solidity, REST APIs, and Git**<br><br>⚡ Fun fact **I enjoy solving DSA problems on LeetCode & Codeforces and turning innovative ideas into real-world applications.**<br>
 
 
 ## 🌐 Socials:
